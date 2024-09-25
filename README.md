@@ -32,88 +32,90 @@ HARDWARE REQUIREMENT:
 Form Design:
 
 
-1.Home Page
+1.Home Page:
 
+![Picture1](https://github.com/user-attachments/assets/39cdf220-6363-4755-b3db-d14bf55e4ff0)
 
+2.Plants:
 
+![Picture2](https://github.com/user-attachments/assets/8ab9c8fb-6953-4a00-a54f-49a5618ee56a)
 
+3.Flowers:
 
-2.Plants
+![Picture3](https://github.com/user-attachments/assets/aa72b507-36be-4aa7-8a83-dc7cb66f10b4)
 
+4.Seeds:
 
+![Picture4](https://github.com/user-attachments/assets/9d5b9dd3-f42a-4e6c-a71f-09ccbd58b33d)
 
-3.Flowers
+5.Contact Us:
 
+![Picture5](https://github.com/user-attachments/assets/b5e6b5df-947d-4d24-b408-142a2b6f46ba)
 
+6.Order:
 
+![Picture6](https://github.com/user-attachments/assets/d0ec5a26-bba4-49c7-a97d-5f755c2428dd)
 
+7.Cart Items:
 
-4.Seeds
+![Picture7](https://github.com/user-attachments/assets/33a62604-9855-4c7c-8552-3d24178209be)
 
+8.User Profile:
 
-5.Contact Us
+![Picture8](https://github.com/user-attachments/assets/912c24f6-7bdc-4a30-8eb1-137dd8f8fd2b)
 
+9.User Sign in:
 
+![Picture9](https://github.com/user-attachments/assets/7d0af482-4397-47fc-9343-d9c1ebfde45d)
 
-6.Order
+10.Login Page:
 
+![Picture10](https://github.com/user-attachments/assets/f4fb9e08-c03c-4068-a383-8bb962818773)
 
+11.Dashboard:
 
-7.Cart Items
+![Picture11](https://github.com/user-attachments/assets/b4c6328b-c378-4bdd-8022-f66e0c2dc1f6)
 
+12.Admin Profile:
 
+![Picture12](https://github.com/user-attachments/assets/8d01d08e-7c8b-4c81-8d7f-aa4198eaebef)
 
-8.User Profile
+13.Register Users:
 
+![Picture13](https://github.com/user-attachments/assets/ab5809e6-e695-45c9-89e4-04dbf1e64ab5)
 
-9.User Sign in
+14.Add Category:
 
+![Picture14](https://github.com/user-attachments/assets/6f398a00-7fcd-4101-ba38-bbf2040e20c0)
 
+15.Edit Category:
 
-10.Login Page
+![Picture15](https://github.com/user-attachments/assets/b9edb2d2-1f99-4b46-963e-ab9d44a65486)
 
+16.Add Nursery:
 
+![Picture16](https://github.com/user-attachments/assets/9107bd4d-d9bd-4a06-a261-a8612d497c24)
 
-11.Dashboard
+17.Contact Us:
 
+![Picture17](https://github.com/user-attachments/assets/8d044533-11e9-427b-8475-100f7a393c43)
 
-12.Admin Profile
+18.New Order: 
 
+![Picture18](https://github.com/user-attachments/assets/f4f28a68-bcd2-40c2-bc69-597981beacba)
 
+19.Confirmed Orders:
 
- 13.Register Users
+![Picture19](https://github.com/user-attachments/assets/07822967-7ede-4cab-a30e-56dadb219cf7)
 
+20.Order Pickup: 
 
+![Picture20](https://github.com/user-attachments/assets/af90ce70-0853-43f6-a7ec-2a5ad3d4a52e)
 
-14.Add Category
+21.Delivered Order:
 
+![Picture21](https://github.com/user-attachments/assets/5f986eb5-32f3-4cdb-8867-53664279afdd)
 
-15.Edit Category
+22.Sales Report:
 
-
-
-16.Add Nursery
-
-
-
-17.Contact Us
-
-
-18.New Order
-
-
-
-19.Confirmed Orders
-
-
-
-20.Order Pickup
-
-
-
-21.Delivered Order
-
-
-
-22.Sales Report
-
+![Picture22](https://github.com/user-attachments/assets/4f079727-68c7-4f60-94ed-c852267f59e7)
